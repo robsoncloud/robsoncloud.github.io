@@ -27,7 +27,7 @@ This blog is where I document my learnings and experiences. Here you'll find a c
 
 Feel free to explore, and if you're working on something similar or have any questions, don’t hesitate to reach out!
 
-![]({{ page.image | relative_url}})
+![]({{ page.image | relative_url }})
 
 
 
