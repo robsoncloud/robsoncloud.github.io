@@ -13,8 +13,6 @@ Hey there! I’m Robson Carvalho, a Systems Engineer based in Dublin, Ireland. O
 ## Early days
 I have been passionate about technology for as long as I can remember. My journey really began when I got my first computer, a Pentium 166, at the age of 11 in 2000. Since I knew nothing about computers, my parents enrolled me in a local computer school to learn the basics. From that moment on, I became a computer enthusiast. I remember going to the computer school and, after my regular class, spending countless hours in the computer lab learning something new about Microsoft Office 2000 or randomly browsing the internet. 
 
-Most of the time, I'd be reading about the next episode of Dragon Ball Z... that is, if the school owner hadn't kindly ask me to leave for being there for over 4 hours after school and my mom had called the school more than 3x 😁
-
 This early passion led me to my first tech job when I was 16. I began teaching Windows XP and Excel spreadsheets at the very same neighborhood computer school where I had once been a eager student. It was a full-circle moment that marked the beginning of my professional journey in technology.
 
 From there, I took on roles in helpdesk and field tech support, continuously expanding my practical knowledge. The next significant step came in 2010 when I joined a Microsoft Certified Learning Solutions provider - Bras & Figueiredo. This opportunity allowed me to deep-dive into the world of certifications and enterprise IT, laying a solid foundation for my future career in cloud computing and infrastructure.
