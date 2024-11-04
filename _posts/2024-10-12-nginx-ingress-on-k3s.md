@@ -77,7 +77,7 @@ There are two primary methods to install the NGINX Ingress Controller on a Kuber
 
 In this tutorial, we'll focus on the second method, using Helm to install the NGINX Ingress Controller on our K3s cluster. It's important to note that neither the NGINX Ingress Controller nor Helm come pre-installed with K3s. Both need to be manually installed and configured.
 
-To install Helm we will follow the instruction found on the official helm site:
+Lets first install Helm, and for that we will follow the instruction found on the official helm doc:
 
 https://helm.sh/docs/intro/install/#from-script
 
