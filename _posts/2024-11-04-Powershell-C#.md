@@ -108,10 +108,9 @@ Running the code you should see the events being output to the console as the ti
 
 
 # Conclusion
-By embedding C# code into PowerShell, we can leverage the power of event handling, enabling automation tasks to respond dynamically to custom conditions. As you can see, this example highlights how PowerShell’s flexibility can be combined with the robustness of C# for more advanced scripting solutions.
+Embedding C# code in PowerShell scripts lets you take advantage of event handling, making it possible for automation tasks to respond dynamically to specific conditions. This example shows how PowerShell’s flexibility can be combined with the power of C# to create more advanced scripting solutions.
 
-I hope you have enjoyed this post and maybe even learned something new about PowerShell :)
-
+I hope you enjoyed this post and learned something new about PowerShell!
 
 ## References
 1. PowerShell and Events
