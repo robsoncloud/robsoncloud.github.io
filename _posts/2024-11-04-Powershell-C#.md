@@ -6,7 +6,7 @@ tags: [powershell, csharp, event-handling, automation]
 item: assets/images/post-01-01.png
 ---
 
-# Introduction
+## Introduction
 Integrating C# code within PowerShell can extend its capabilities significantly. By embedding custom C# classes, PowerShell can handle more complex operations such as event handling with a higher degree of control. 
 
 In this post, I will walk you through a straightforward example of using pure C# code to instantiate a Timer object, expose its lapse event, and demonstrate how to subscribe to this event with a custom event handler in PowerShell.
@@ -107,7 +107,7 @@ Running the code you should see the events being output to the console as the ti
 ![PowerShell Output](assets/images/post-02-01.gif){: .normal }
 
 
-# Conclusion
+## Conclusion
 Embedding C# code in PowerShell scripts lets you take advantage of event handling, making it possible for automation tasks to respond dynamically to specific conditions. This example shows how PowerShell’s flexibility can be combined with the power of C# to create more advanced scripting solutions.
 
 I hope you enjoyed this post and learned something new about PowerShell!
